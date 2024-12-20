@@ -1,2 +1,2 @@
 grep -rl "daftar-kupon-festival-2" . | xargs sed -i "s/daftar-kupon-festival-2/new-name/g"
-grep -rl "Banking Template" . | xargs sed -i "s/Banking Template/New Name/g"
+grep -rl "Daftar Kupon Festival" . | xargs sed -i "s/Daftar Kupon Festival/New Name/g"
